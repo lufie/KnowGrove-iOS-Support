@@ -1,6 +1,6 @@
 # KnowGrove Privacy Policy
 
-Last updated: July 28, 2026
+Last updated: August 15, 2026
 
 KnowGrove is a local voice recording and content capture app. It is designed to record audio, recover recording sessions after system audio interruptions, and save user-selected links or text into local Markdown files.
 
@@ -19,6 +19,12 @@ The Inbox can process links or text that the user pastes or shares from another 
 ## Local Storage and User-Selected Folders
 
 KnowGrove stores recordings, manifests, preferences, and pending Inbox items on the device. The app may access files in folders selected by the user solely to write, open, retry, or manage the user-requested export. Deleting the app removes data in its app container; files already exported to user-selected folders remain under the user’s control.
+
+## Purchases and Free Usage
+
+Purchases are processed by Apple through StoreKit and are associated with the user's App Store account. KnowGrove verifies current purchase entitlements on the device and does not receive payment-card details.
+
+To prevent an app reinstall from resetting the free allowance, KnowGrove stores free recording and capture counters in the device Keychain. When iCloud Keychain is enabled, Apple may synchronize this counter data across the user's devices. The data contains usage counters and random recording or capture identifiers, not audio, captured content, links, or note text. The developer cannot access this Keychain data.
 
 ## Live Activities and Shortcuts
 
@@ -40,7 +46,7 @@ Do not include private recordings or sensitive captured content in a public issu
 
 # 言续隐私政策
 
-更新日期：2026 年 7 月 28 日
+更新日期：2026 年 8 月 15 日
 
 言续是一款本地语音录制与内容收集 App，用于录制音频、在系统音频中断后恢复同一条录音，以及将用户选择的链接或文字保存为本地 Markdown 文件。
 
@@ -59,6 +65,12 @@ Inbox 可以处理用户粘贴或从其他 App 分享的链接与文字。处理
 ## 本地存储与用户选择的文件夹
 
 言续会在设备上保存录音、会话信息、偏好设置和等待处理的 Inbox 内容。App 仅会为了执行用户要求的写入、打开、重试或管理导出操作，访问用户主动选择的文件夹。删除 App 会移除其本地容器中的数据；已经导出到用户文件夹的内容仍由用户自行控制。
+
+## 购买与免费额度
+
+购买由 Apple 通过 StoreKit 处理，并与用户的 App Store 账号关联。言续只在设备上验证当前购买权益，不会取得银行卡等支付信息。
+
+为避免删除并重装 App 后重置免费额度，言续会把免费录音和收集计数保存在设备钥匙串中。用户启用 iCloud 钥匙串时，Apple 可能会在用户的设备间同步这些计数。该数据只包含用量计数及随机录音或收集标识，不包含音频、收集内容、链接或笔记正文；开发者无法访问这些钥匙串数据。
 
 ## 实时活动与快捷指令
 
