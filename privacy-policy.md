@@ -1,16 +1,16 @@
-# KeepRec Privacy Policy
+# KnowGrove Privacy Policy
 
 Last updated: July 28, 2026
 
-KeepRec is a local voice recording and content capture app. It is designed to record audio, recover recording sessions after system audio interruptions, and save user-selected links or text into local Markdown files.
+KnowGrove is a local voice recording and content capture app. It is designed to record audio, recover recording sessions after system audio interruptions, and save user-selected links or text into local Markdown files.
 
 ## Data Collection
 
-KeepRec does not collect personal data. It does not create accounts, display ads, use third-party analytics SDKs, or send recordings and captured content to developer-operated servers.
+KnowGrove does not collect personal data. It does not create accounts, display ads, use third-party analytics SDKs, or send recordings and captured content to developer-operated servers.
 
 ## Microphone Access
 
-With permission, KeepRec uses the microphone only when the user starts a recording. Audio is written to the app’s local container and, when the user chooses, to a folder selected through the iOS document picker. The developer cannot access these recordings.
+With permission, KnowGrove uses the microphone only when the user starts a recording. Audio is written to the app’s local container and, when the user chooses, to a folder selected through the iOS document picker. The developer cannot access these recordings.
 
 ## Links, Text, and Share Extension
 
@@ -18,31 +18,31 @@ The Inbox can process links or text that the user pastes or shares from another 
 
 ## Local Storage and User-Selected Folders
 
-KeepRec stores recordings, manifests, preferences, and pending Inbox items on the device. The app may access files in folders selected by the user solely to write, open, retry, or manage the user-requested export. Deleting the app removes data in its app container; files already exported to user-selected folders remain under the user’s control.
+KnowGrove stores recordings, manifests, preferences, and pending Inbox items on the device. The app may access files in folders selected by the user solely to write, open, retry, or manage the user-requested export. Deleting the app removes data in its app container; files already exported to user-selected folders remain under the user’s control.
 
 ## Live Activities and Shortcuts
 
-KeepRec uses Apple Live Activities and App Shortcuts to show recording status and support user-initiated start and stop actions. These features do not transmit recording content to the developer.
+KnowGrove uses Apple Live Activities and App Shortcuts to show recording status and support user-initiated start and stop actions. These features do not transmit recording content to the developer.
 
 ## Third Parties
 
-KeepRec does not sell, rent, or share user data. If the user chooses to open a document in another app or store files in a third-party file provider, that action is initiated by the user and is subject to the selected provider’s privacy practices.
+KnowGrove does not sell, rent, or share user data. If the user chooses to open a document in another app or store files in a third-party file provider, that action is initiated by the user and is subject to the selected provider’s privacy practices.
 
 ## Contact
 
 For privacy or support questions, open an issue at:
 
-https://github.com/lufie/keeprec-support/issues
+https://github.com/lufie/KnowGrove-iOS-Support/issues
 
 Do not include private recordings or sensitive captured content in a public issue.
 
 ---
 
-# 言续 KeepRec 隐私政策
+# 言续隐私政策
 
 更新日期：2026 年 7 月 28 日
 
-言续 KeepRec 是一款本地语音录制与内容收集 App，用于录制音频、在系统音频中断后恢复同一条录音，以及将用户选择的链接或文字保存为本地 Markdown 文件。
+言续是一款本地语音录制与内容收集 App，用于录制音频、在系统音频中断后恢复同一条录音，以及将用户选择的链接或文字保存为本地 Markdown 文件。
 
 ## 数据收集
 
@@ -72,6 +72,6 @@ Inbox 可以处理用户粘贴或从其他 App 分享的链接与文字。处理
 
 如有隐私或支持问题，请在以下地址提交：
 
-https://github.com/lufie/keeprec-support/issues
+https://github.com/lufie/KnowGrove-iOS-Support/issues
 
 请勿在公开问题中附上私人录音或敏感的收集内容。
